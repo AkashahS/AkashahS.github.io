@@ -12,24 +12,24 @@ My name is Akashah Shabir. I have the following qualities:
 - Clear communicator who can easily translate complex information
 
 ### EDUCATION
-# Masters in Electrical Engineering 
+#### Masters in Electrical Engineering 
 National University of Science and Technology NUST ISL Pakistan,2016 
 Thesis: Partial reconfigurable architecture for isomer implementation on 
 FPGA, CGPA 3.6/ 4.0
 
-# Bachelors in Electrical Engineering 
+#### Bachelors in Electrical Engineering 
 University of Engineering and Technology UET Lahore Pakistan, 2012
 Awarded gold medal & honours degree, CGPA 3.84 / 4.0
 
 ### Experience
-# Program developer 2017-present
+#### Program developer 2017-present
 Organization: Upwork
 - Conversion program development of Google map coordinates, KML from map tiles using GitHub repositories 
 - Automate the extraction and visualization of data using Beautiful Soup, NumPy and Pandas Python Libraries 
 - Data scraping, data cleaning and visualization from dynamic websites
 - Developed technical and educational content/tutorials
 
-# Teaching Assistant 2015-2017 
+#### Teaching Assistant 2015-2017 
 Institute: National University of Science and Technology NUST, 
 Islamabad Pakistan
 Subject: Digital System Design, Image Processing 
@@ -37,7 +37,7 @@ Subject: Digital System Design, Image Processing
 - Conducted electronics lab sessions, prepared tutorials and presentations 
 - Assisted remotely through email/TeamViewer and also maintained regular office hours to advise students
 
-# Research Assistant 2012-2014
+#### Research Assistant 2012-2014
 Institute: Centre of Excellence in FPGA and ASIC research CEFAR 
 National University of Science and Technology NUST, Islamabad 
 Pakistan Project: Secure Dial- FPGA based AES encryption of voice 
