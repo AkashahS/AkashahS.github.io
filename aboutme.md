@@ -8,7 +8,7 @@ My name is Akashah Shabir. I have the following qualities:
 
 - A strong propensity for programming
 - Well versed in Mathematics, Statistics, and Probability
-- analytical and a problem solver
+- Analytical and problem solver
 - Clear communicator who can easily translate complex information
 
 
