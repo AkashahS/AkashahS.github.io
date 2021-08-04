@@ -1,16 +1,48 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Machine Learning Engineer and Researcher
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Akashah Shabir. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- A strong propensity for programming
+- Well versed in Mathematics, Statistics, and Probability
+- analytical and a problem solver
+- Clear communicator who can easily translate complex information
 
-What else do you need?
+### EDUCATION
+Masters in Electrical Engineering 
+National University of Science and Technology NUST ISL Pakistan,2016 
+Thesis: Partial reconfigurable architecture for isomer implementation on 
+FPGA, CGPA 3.6/ 4.0
 
-### My story
+Bachelors in Electrical Engineering 
+University of Engineering and Technology UET Lahore Pakistan, 2012
+Awarded gold medal & honours degree, CGPA 3.84 / 4.0
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Experience
+Program developer 2017-present
+Organization: Upwork
+• Conversion program development of Google map coordinates, KML from map tiles using GitHub repositories 
+• Automate the extraction and visualization of data using Beautiful Soup, NumPy and Pandas Python Libraries 
+• Data scraping, data cleaning and visualization from dynamic websites
+• Developed technical and educational content/tutorials
+
+Teaching Assistant 2015-2017 
+Institute: National University of Science and Technology NUST, 
+Islamabad Pakistan
+Subject: Digital System Design, Image Processing 
+• Assisted faculty in teaching, developing resources, conducting and grading the assessments/quizzes/term projects
+• Conducted electronics lab sessions, prepared tutorials and presentations 
+• Assisted remotely through email/TeamViewer and also maintained regular office hours to advise students
+
+Research Assistant 2012-2014
+Institute: Centre of Excellence in FPGA and ASIC research CEFAR 
+National University of Science and Technology NUST, Islamabad 
+Pakistan Project: Secure Dial- FPGA based AES encryption of voice 
+channel 
+• Developed AC_97 codec controller in FPGA 
+• Interfaced modules from TX/RX channels for ADPCM compression and AES encryption, RFID card interfacing
+• Implemented design in Hardware (FPGA) of SIFT Algorithm stages
+• Implemented Inter integrated circuit I2C bus Master Controller in Verilog
