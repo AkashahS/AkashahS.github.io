@@ -14,11 +14,13 @@ My name is Akashah Shabir. I have the following qualities:
 
 ### EDUCATION
 #### Masters in Electrical Engineering 
-National University of Science and Technology NUST ISL Pakistan,2016  &nbsp
+National University of Science and Technology NUST ISL Pakistan,2016
+
 Thesis: Partial reconfigurable architecture for isomer implementation on FPGA, CGPA 3.6/ 4.0
 
 #### Bachelors in Electrical Engineering 
-University of Engineering and Technology UET Lahore Pakistan, 2012  &nbsp
+University of Engineering and Technology UET Lahore Pakistan, 2012
+
 Awarded gold medal & honours degree, CGPA 3.84 / 4.0
 
 
