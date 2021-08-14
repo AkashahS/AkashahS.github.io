@@ -2,17 +2,15 @@
 layout: post
 title: What is What in ML
 subtitle: Easy Introduction to Machine Learning 
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [ML]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Are you wondering what Machine learning is? Here is an easy and non-technical explanation of the most frequent terms used in Machine learning.
 
-**Here is some bold text**
+## Artificial Intelligence (AI)
 
-## Here is a secondary heading
+Artificial intelligence is mimicking human intelligence in machines. AI is frequently used interchangeably with ML but artificial intelligence is a broader term.  
 
 Here's a useless table:
 
