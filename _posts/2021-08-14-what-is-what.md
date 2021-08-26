@@ -20,7 +20,7 @@ AI is frequently used interchangeably with ML, but artificial intelligence is a 
 - AI is not only ML, but ML is a branch of AI
 - Similarly, the goal of AI is not to make an intelligent robot, but an intelligent robot is an application of AI.
 
-Machine Learning (ML)
+## Machine Learning (ML)
 
 Machine learning is an imitation of human learning. It makes computers capable of automatically learning from data and improve from experience.
 
