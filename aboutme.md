@@ -37,22 +37,22 @@ Project: Secure Dial- FPGA based AES encryption of voice channel
 - Implemented Inter integrated circuit I2C bus Master Controller in Verilog
 
 ### Courses & Certifications
-#### Intermediate Machine Learning Kaggle - Aug 2021
+##### Intermediate Machine Learning Kaggle - Aug 2021
 - XGBoost, Pipelines, Leakage, Missing values, Categorical variables, Cross-validation
 
-#### Intro to Machine Learning Kaggle - Aug 2021
+##### Intro to Machine Learning Kaggle - Aug 2021
 - Scikit-learn, Random Forest, Decision Tree
 
-#### Intro to Deep Learning Kaggle - Aug 2021
+##### Intro to Deep Learning Kaggle - Aug 2021
 - Deep learning, TensorFlow, Deep neural networks, SGD
 
-#### Introduction to Data Science in Python University of Michigan - March 2021
+##### Introduction to Data Science in Python University of Michigan - March 2021
 - Lambdas, NumPy, Pandas, Data manipulation and cleaning, Statistical analyses
 
-#### Machine Learning by Andrew Ng Standford University - ongoing
+##### Machine Learning by Andrew Ng Standford University - ongoing
 - Supervised and unsupervised learning, Regression, Neural networks, Error analysis
 
-#### Cisco Certified Network Associate (CCNA) Training Esupak Uet - Aug 2007
+##### Cisco Certified Network Associate (CCNA) Training Esupak Uet - Aug 2007
 - Network fundamentals, Network access, IP connectivity, IP service
 
 ### EDUCATION
