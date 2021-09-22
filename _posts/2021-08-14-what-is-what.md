@@ -17,8 +17,8 @@ Artificial intelligence is mimicking human intelligence in machines. Humans can 
 
 AI is frequently used interchangeably with ML, but artificial intelligence is a broader term.  Some facts about AI that will help you understand it better are as follows: 
 
-- AI is not only ML, but ML is a branch of AI
-- Similarly, the goal of AI is not to make an intelligent robot, but an intelligent robot is an application of AI.
+- ML is a branch of AI
+- The goal of AI is not to make an intelligent robot, but an intelligent robot is one of the applications of AI.
 
 ## Machine Learning (ML)
 
