@@ -15,7 +15,7 @@ Git is a management system that keeps track of all the changes you make.
 
 - Its a software on your computer which is locally available on your device.
 - It's free and open-source (free to reuse, redistribute and modify) software.
-- You can save the progress for any documents, codes in any language, websites and any other data/ information using GIT
+- You can save the progress(changes you make/versions) for any documents, codes in any language, websites and any other data/ information using GIT.
 
 ## GitHub
 
