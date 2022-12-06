@@ -35,6 +35,9 @@ Project: Secure Dial- FPGA based AES encryption of voice channel
 - Implemented Inter integrated circuit I2C bus Master Controller in Verilog
 
 ### Courses & Certifications
+**Computer Vision, Kaggle - Dec 2022** \
+Image Classifier with Keras, Custom Convnet, Transfer Learning, Data Augmentation
+
 **Intermediate Machine Learning, Kaggle - Aug 2021** \
 XGBoost, Pipelines, Leakage, Missing values, Categorical variables, Cross-validation
 
