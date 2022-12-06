@@ -4,8 +4,6 @@ title: About me
 subtitle: Machine Learning Engineer and Researcher
 ---
 
-My name is Akashah Shabir. I have the following qualities:
-
 - A strong propensity for programming
 - Well versed in Mathematics, Statistics, and Probability
 - Analytical and problem solver
