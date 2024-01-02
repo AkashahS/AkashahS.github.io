@@ -4,14 +4,13 @@ title: About me
 subtitle: Machine Learning Engineer and Researcher
 ---
 
-- A strong propensity for programming
-- Well versed in Mathematics, Statistics, and Probability
-- Analytical and problem solver
-- Clear communicator who can easily translate complex information
-
+PhD in Computer Vision at MBZUAI | Researcher | Geospatial ML | Machine Learning Engineer | geoAI
 
 ### Experience
-#### Program developer 2017-present
+#### PhD in Computer Vision 
+Organization: Mohamed bin Zayed University of Artificial Intelligence MBZUAI
+
+#### Python developer 2017-2022
 Organization: Upwork
 - Conversion program development of Google map coordinates, KML from map tiles using GitHub repositories 
 - Automate the extraction and visualization of data using Beautiful Soup, NumPy and Pandas Python Libraries 
